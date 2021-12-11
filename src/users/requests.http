@@ -4,7 +4,7 @@ content-type: application/json
 
 {
     "email": "josefa@gmail.com",
-    "password": "Jureminha"
+    "password": "Jureminh"
 }
 
 ### Find a particular user with a given email
